@@ -1,4 +1,4 @@
-```markdown
+
 # Varun Satheesh's Portfolio
 
 Welcome to my GitHub page! I'm Varun Satheesh, a Master's student in Computer Science at Brown University, with a strong background in **Machine Learning**, **Computer Graphics**, and **Software Development**. Here, you can explore my skills, experience, and projects that reflect my passion for innovation in tech.
@@ -97,4 +97,4 @@ Bangalore, India | Aug 2022 - Aug 2024
 ---
 
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss any opportunities. Thank you for visiting my GitHub page!
-```
+
